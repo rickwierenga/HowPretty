@@ -32,7 +32,10 @@ Currently _HowPretty_ is an MVP. There are a couple of things that could be impr
 - [ ] Retrain the model on the full set of images instead of a subset.
 - [ ] Add a loading screen.
 - [ ] Design an app icon.
+- [ ] Add an Android version.
 - [ ] Use bounding boxes of face to crop the image for higher accuracy. Tell the user to move closer or further away to get the perfect resolution (150 by 150).
+- [ ] Use bounding boxes of face to crop the image for higher accuracy. Tell the user to move closer or further away to get the perfect resolution (150 by 150).
+- [ ] Add a share buttons which shares the image, score and a link to the app.
 
 ---
 &copy;Rick Wierenga
