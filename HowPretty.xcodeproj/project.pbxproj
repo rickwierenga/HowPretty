@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5800509B23BA897800AB9F90 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5800509A23BA897800AB9F90 /* GoogleService-Info.plist */; };
+		5800509D23BB5D4600AB9F90 /* model.tflite in Resources */ = {isa = PBXBuildFile; fileRef = 5800509C23BB58F400AB9F90 /* model.tflite */; };
 		581200F723BA85E100A4F76D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581200F623BA85E100A4F76D /* AppDelegate.swift */; };
 		581200F923BA85E100A4F76D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581200F823BA85E100A4F76D /* SceneDelegate.swift */; };
 		581200FB23BA85E100A4F76D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581200FA23BA85E100A4F76D /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		5800509A23BA897800AB9F90 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		5800509C23BB58F400AB9F90 /* model.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; path = model.tflite; sourceTree = "<group>"; };
 		581200F323BA85E100A4F76D /* HowPretty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HowPretty.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		581200F623BA85E100A4F76D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		581200F823BA85E100A4F76D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				5812010123BA85E500A4F76D /* LaunchScreen.storyboard */,
 				5812010423BA85E500A4F76D /* Info.plist */,
 				5800509A23BA897800AB9F90 /* GoogleService-Info.plist */,
+				5800509C23BB58F400AB9F90 /* model.tflite */,
 			);
 			path = HowPretty;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5800509D23BB5D4600AB9F90 /* model.tflite in Resources */,
 				5812010323BA85E500A4F76D /* LaunchScreen.storyboard in Resources */,
 				5812010023BA85E500A4F76D /* Assets.xcassets in Resources */,
 				581200FE23BA85E100A4F76D /* Main.storyboard in Resources */,
